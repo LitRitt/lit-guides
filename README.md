@@ -1,3 +1,3 @@
-# ***Lit Sites***
+# ***Lit Guides***
 
-A base repo for my [Jekyll](https://github.com/jekyll/jekyll) sites
+A [jekyll](https://github.com/jekyll/jekyll) site for my written guides
