@@ -6,4 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Welcome
 ---
+
+Here you can find the various guides that I write. I enjoy learning, then compressing and streamlining that knowledge for others to learn from. I hope they are of use to someone.
