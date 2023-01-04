@@ -2,7 +2,7 @@ title: Lit Guides
 author:
   name: LitRitt
   email: dev@litritt.com
-description: The home of various guides
+description: The home of my guides
 url: "https://guides.litritt.com"
 github_url: "https://github.com/LitRitt/lit-guides" # GitHub link for footer link. Comment out to remove link
 
@@ -21,8 +21,16 @@ lit-midnight:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - home.md
+  - about.md
 
 # Build settings
 remote_theme: litritt/lit-midnight
+
+exclude:
+  - LICENSE.txt
+  - README.md
+
+whitelist:
+  - jekyll-redirect-from
