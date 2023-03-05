@@ -3,6 +3,7 @@ layout: post
 title:  "Creating a macOS VM on Windows with VirtualBox"
 date:   2022-12-26 17:30:00 -0500
 category: guide
+permalink: /macos-vm
 ---
 
 ### [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
