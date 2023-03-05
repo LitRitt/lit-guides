@@ -3,7 +3,6 @@ layout: post
 title:  "Installing Jekyll on Windows Subsystem for Linux"
 date:   2022-12-26 17:15:00 -0500
 category: guide
-permalink: jekyll-wsl
 ---
 
 ### [Install Windows Subsystem for Linux](https://apps.microsoft.com/store/detail/windows-subsystem-for-linux/9P9TQF7MRM4R)
