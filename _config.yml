@@ -31,6 +31,3 @@ remote_theme: litritt/lit-midnight
 exclude:
   - LICENSE.txt
   - README.md
-
-whitelist:
-  - jekyll-redirect-from
